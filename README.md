@@ -1,6 +1,6 @@
 ### Hi there, I'm HieuK <img src="https://camo.githubusercontent.com/c05b8e6f41e6e75b664d121f193fc3640f21b5f8ea0182efab1d2a8204e59caf/68747470733a2f2f62696f2e6c696e6b63646e2e746f2f696e73746162696f2e63632f7374617469632f696d616765732f6261636b2f747769747465725f69636f6e2e706e67" align="bottom" height="18" width="18" style="max-width: 100%; position: relative; left: 1px; top: -2px;">
 
-[![Gmail Badge](https://img.shields.io/badge/-tnstudio16201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hieutrankiemcong@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-hieutrankiemcong@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hieutrankiemcong@gmail.com "Connect via Email")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/CongHieu.Profile "Connect on Facebook")
 ![Profile Views](https://komarev.com/ghpvc/?username=HieuYoutuber&color=blue)
 <a href="https://conghieuit.net"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" height="300" /></a>
