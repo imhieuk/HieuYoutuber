@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-hieutrankiemcong@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hieutrankiemcong@gmail.com "Connect via Email")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/CongHieu.Profile "Connect on Facebook")
-![Profile Views](https://komarev.com/ghpvc/?username=HieuYoutuber&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=imhieu2k7&color=blue)
 <a href="https://conghieuit.net"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" height="300" /></a>
 
 I am a FreeLancer Developer, I love to learn and contribute in any and every possible way.
@@ -17,11 +17,11 @@ I am a FreeLancer Developer, I love to learn and contribute in any and every pos
   
 </details> -->
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HieuYoutuber&layout=compact&theme=dark)](https://github.com/HieuYoutuber/HieuYoutuber)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhieu2k7&layout=compact&theme=dark)](https://github.com/imhieu2k7/imhieu2k7)
 
 ### My Github Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=HieuYoutuber&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/HieuYoutuber)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=imhieu2k7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/imhieu2k7)
 
 ### Design
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
